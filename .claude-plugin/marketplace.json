@@ -1,0 +1,13 @@
+{
+  "name": "nse-trading-marketplace",
+  "owner": {
+    "name": "colossusvk"
+  },
+  "plugins": [
+    {
+      "name": "nse-trading-skills",
+      "source": "./",
+      "description": "Bundled NSE trading skills for Claude"
+    }
+  ]
+}
